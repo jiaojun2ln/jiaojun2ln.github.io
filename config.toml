@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://co_oc.me/"
+baseURL = "https://jiaojun2ln.github.io/"
 title = "公子小白的践行博客 - co_oc.me"
 languageCode = "zh-CN"
 hasCJKLanguage = true
